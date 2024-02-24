@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Merino wool",
+    "img": "catalog_one.png"
+  },
+  {
+    "id": 2,
+    "name": "Alpaca wool",
+    "img": "catalog_two.png"
+  },
+  {
+    "id": 3,
+    "name": "Baby wool",
+    "img": "catalog_three.png"
+  },
+  {
+    "id": 4,
+    "name": "Acrylic",
+    "img": "catalog_four.png"
+  },
+  {
+    "id": 5,
+    "name": "Knitted yarn",
+    "img": "catalog_five.png"
+  },
+  {
+    "id": 6,
+    "name": "Bobbin yarn",
+    "img": "catalog_six.png"
+  },
+  {
+    "id": 7,
+    "name": "Spokes",
+    "img": "catalog_seven.png"
+  },
+  {
+    "id": 8,
+    "name": "Hooks",
+    "img": "catalog_eight.png"
+  }
+]

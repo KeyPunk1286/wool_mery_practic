@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "productName": "The wool",
+    "productPrice": 11,
+    "productImg": "the_wool_first.png"
+  },
+  {
+    "id": 2,
+    "productName": "Merry Fraya",
+    "productPrice": 16,
+    "productImg": "merry_fraya_one.png"
+  },
+  {
+    "id": 3,
+    "productName": "Merry Fraya",
+    "productPrice": 16,
+    "productImg": "merry_fraya_two.png"
+  },
+  {
+    "id": 4,
+    "productName": "Concept pisco",
+    "productPrice": 14,
+    "productImg": "concep_pisco_first.png"
+  },
+  {
+    "id": 5,
+    "productName": "Linea pura",
+    "productPrice": 12,
+    "productImg": "linea_pura_first.png"
+  },
+  {
+    "id": 6,
+    "productName": "Merry Fraya",
+    "productPrice": 16,
+    "productImg": "merry_fraya_three.png"
+  },
+  {
+    "id": 7,
+    "productName": "The wool",
+    "productPrice": 10,
+    "productImg": "the_wool_two.png"
+  },
+  {
+    "id": 8,
+    "productName": "Merry Fraya",
+    "productPrice": 16,
+    "productImg": "merry_fraya_four.png"
+  }
+]

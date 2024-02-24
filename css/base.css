@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css?family=Playfair+Display:regular,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:regular,600,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Roboto:regular,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Dynalight:regular&display=swap");
+*,
+*::before,
+*::after {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+li {
+  list-style: none;
+}
+
+img {
+  vertical-align: top;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: inherit;
+  font-size: inherit;
+}
+
+html,
+body {
+  height: 100%;
+  line-height: 1;
+}
+
+textarea,
+button,
+input {
+  font-weight: inherit;
+  font-size: inherit;
+  color: inherit;
+  font-family: inherit;
+}
+
+button {
+  cursor: pointer;
+  background-color: inherit;
+}
+
+:root {
+  --font-family: "Playfair Display", sans-serif;
+  --second-family: "Open Sans", sans-serif;
+  --third-family: "Roboto", sans-serif;
+  --font3: "Dynalight", sans-serif;
+}
+
+:root {
+  --color-black: #3c4739;
+  --color-black-mute: #4f5b4f;
+  --color-white: #fff;
+  --color-green-bg: #849783;
+  --color-green-bg-hover: #849783, rgba(0, 0, 0, 0.4);
+  --color-popap-bg: #292828;
+  --color-red: #f92828;
+  --color-pink: #f3e8e8;
+}
+
+body {
+  color: var(--color-black);
+  font-family: var(--font-family);
+  font-weight: 700;
+  max-width: 85.375rem;
+  margin: 0 auto;
+}
+
+[class*=__container] {
+  max-width: 72.375rem;
+  margin: 0 auto;
+  padding-left: 0.9375rem;
+  padding-right: 0.9375rem;
+}

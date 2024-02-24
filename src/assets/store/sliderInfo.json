@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "img": "girl_slide.png",
+    "name": "Anna Petrenko",
+    "info": "Attentive, friendly, help with the choice, Work quickly and accurately. Reasonable prices, good quality goods. I really like their site, easy to find, good description. I RECOMMEND !!!!"
+  },
+  {
+    "id": 2,
+    "img": "girl_slide_two.png",
+    "name": "Natalia Shvets",
+    "info": "Everything is clear and understandable, pleasant service, the product matches the description. Fast delivery by Ukrposhta. I recommend."
+  },
+  {
+    "id": 3,
+    "img": "girl_slide.png",
+    "name": "Anna Petrenko",
+    "info": "Attentive, friendly, help with the choice, Work quickly and accurately. Reasonable prices, good quality goods. I really like their site, easy to find, good description. I RECOMMEND !!!!"
+  },
+  {
+    "id": 4,
+    "img": "girl_slide_two.png",
+    "name": "Natalia Shvets",
+    "info": "Everything is clear and understandable, pleasant service, the product matches the description. Fast delivery by Ukrposhta. I recommend."
+  }
+]
